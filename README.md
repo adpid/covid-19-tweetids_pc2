@@ -4,6 +4,7 @@ The repository contains an ongoing collection of tweets IDs associated with the 
 
 The associated paper to this repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://publichealth.jmir.org/2020/2/e19273/)
 
+**Due to Twitter's changing policies around their free API, we are unsure of how this will impact academic access to the API. We will continue to collect tweets and update this repository for as long as we can.**
 
 ## Data Organization
 The Tweet-IDs are organized as follows:
@@ -72,22 +73,22 @@ BibTeX:
 }
 ```
 
-# Statistics Summary (v2.104)
-Number of Tweets : **2,732,637,342**
+# Statistics Summary (v2.105)
+Number of Tweets : **2,763,160,115**
 
 Language breakdown of top 10 most prevalent languages :
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,752,902,076    | 64.15%             |
-| Spanish         | es      | 305,448,610      | 11.18%             |
-| Portuguese      | pt      | 106,554,138      | 3.9%               |
-| French          | fr      | 101,016,370      | 3.7%               |
-| Undefined       | und     | 75,489,676       | 2.76%              |
-| Indonesian      | in      | 73,955,333       | 2.71%              |
-| German          | de      | 63,388,826       | 2.32%              |
-| Japanese        | ja      | 40,055,653       | 1.47%              |
-| Thai            | th      | 37,881,897       | 1.39%              |
-| Italian         | it      | 31,471,016       | 1.15%              |
+| English         | en      | 1,775,908,066    | 64.27%             |
+| Spanish         | es      | 307,204,779      | 11.12%             |
+| Portuguese      | pt      | 107,186,241      | 3.88%              |
+| French          | fr      | 102,149,610      | 3.7%               |
+| Undefined       | und     | 75,584,072       | 2.74%              |
+| Indonesian      | in      | 74,104,930       | 2.68%              |
+| German          | de      | 64,212,175       | 2.32%              |
+| Japanese        | ja      | 40,909,809       | 1.48%              |
+| Thai            | th      | 37,982,569       | 1.37%              |
+| Italian         | it      | 31,722,962       | 1.15%              |
 
 # Known Gaps
 | Date          | Time              |
